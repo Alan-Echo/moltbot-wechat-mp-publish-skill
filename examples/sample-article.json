@@ -1,0 +1,10 @@
+{
+  "title": "示例文章标题",
+  "author": "作者名称",
+  "digest": "这是文章的简短摘要，最多120个字符",
+  "content": "<p>这是文章的主要内容。</p><p>支持基本的HTML格式，如<strong>粗体</strong>、<em>斜体</em>、<a href='https://example.com'>链接</a>等。</p><p>如果包含图片，请先上传图片获取media_id，然后在内容中使用<img src='MEDIA_ID' />标签。</p>",
+  "content_source_url": "https://example.com/original-article",
+  "thumb_media_id": "",
+  "need_open_comment": 1,
+  "only_fans_can_comment": 1
+}
